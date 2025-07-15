@@ -32,7 +32,4 @@ Create an interactive dashboard in Power BI to analyze hospital appointment data
 
 ---
 
-**Tip:** To host this publicly, you can publish the dashboard to **Power BI Service** or export it to **Power BI Report Server** and add the link once available.
-
----
 
